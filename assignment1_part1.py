@@ -1,3 +1,5 @@
+# Assignment 1 Part 1
+
 class ListDivideException(Exception):
     pass
 
