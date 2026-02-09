@@ -1,4 +1,4 @@
-# part 2
+# Assignment 1 Part 2
 
 class Book:
     author = ""
